@@ -7,9 +7,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
+- ReactJS
+- TailwindCSS
 
 ## 🌐 Link
 
-Você pode acessar o site hospedado na internet através [desse link](https://feedback-component-lyart.vercel.app/).
+Você pode acessar o site hospedado na internet através [desse link](https://feedback-card.vercel.app/).
